@@ -1,6 +1,6 @@
 import React from 'react';
 import Apple from '../../assets/appleLogo.png';
-import Jacquemus from '../../assets/JacquemusLogo.png';
+import Jacquemus from '../../assets/jacquemusLogo.png';
 import Supreme from '../../assets/supremeLogo.png';
 import Clot from '../../assets/clotLogo.png';
 
