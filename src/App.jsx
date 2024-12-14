@@ -79,7 +79,7 @@ const App = () => {
                   <Products />
                   <Banner data={BannerData2} />
                   <Blogs />
-                  <Partners />
+                  {/* <Partners /> */}
                   <Footer />
                   <Popup orderPopup={orderPopup} handleOrderPopup={handleOrderPopup} />
                 </>
