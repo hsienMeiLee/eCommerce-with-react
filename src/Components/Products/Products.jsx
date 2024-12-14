@@ -6,7 +6,7 @@ import Shoe2 from "../../assets/shoe2.png";
 import Shoe3 from "../../assets/shoe3.jpg";
 import Shirt1 from "../../assets/shirt1.png";
 import Shirt2 from "../../assets/shirt2.png";
-import Shirt3 from "../../assets/Shirt3.jpg";
+import Shirt3 from "../../assets/shirt3.jpg";
 import Trousers from "../../assets/trousers.png";
 import Shoe12 from "../../assets/shoe12.png";
 
